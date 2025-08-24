@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 
 ## Hi! I'm extrem  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FFFFFF&lines=Python+Dev;Application+Dev;Website+Dev;Lua+Dev)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FFFFFF&lines=Python+Enthusiast;Application+Developer;Website+Developer)](https://git.io/typing-svg)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=extrememine1&layout=compact&theme=tokyonight)
