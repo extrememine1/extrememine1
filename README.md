@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi! I'm extrem  
+## hello world 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FFFFFF&lines=Macro+Developer;App+Developer)](https://git.io/typing-svg)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=extrememine1&layout=compact&theme=tokyonight)
